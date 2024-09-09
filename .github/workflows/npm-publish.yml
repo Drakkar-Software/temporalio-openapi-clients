@@ -1,4 +1,4 @@
-name: Pennylane API - Publish
+name: Temporal API - Publish
 
 on:
   push:
